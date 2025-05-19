@@ -12,6 +12,8 @@ You will be able to:
 - Perform cross validation on a model
 - Compare and contrast model validation strategies
 
+# Check the index.ipynb file for my workings
+
 ## Let's Get Started
 
 We included the code to pre-process the Ames Housing dataset below. This is done for the sake of expediency, although it may result in data leakage and therefore overly optimistic model metrics.
